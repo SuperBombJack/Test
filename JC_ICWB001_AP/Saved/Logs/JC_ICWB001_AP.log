@@ -2475,3 +2475,25 @@ LogInit: Object subsystem initialized
 [2019.01.19-04.39.17:226][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_hatMat" FILE="../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Content/SM_hatMat.uasset" SILENT=true
 [2019.01.19-04.39.17:235][920]LogSavePackage: Moving '../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Saved/SM_hatMatF250BEA74AED208DE35FF7ACD12EA6EA.tmp' to '../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Content/SM_hatMat.uasset'
 [2019.01.19-04.39.28:328][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-04.42.14:821][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.42.18:763][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.42.52:469][ 61]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.19-04.42.52:631][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.42.52:806][ 61]LogAIModule: Creating AISystem for world JC_Whitebox_190118
+[2019.01.19-04.42.53:523][ 61]LogSavePackage: Moving '../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Saved/JC_Whitebox_1901181B1214EB4E10E16EED97F2BBA015FF6F.tmp' to '../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Content/Maps/JC_Whitebox_190118.umap'
+[2019.01.19-04.42.53:574][ 61]LogSavePackage: Moving '../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Saved/JC_Whitebox_190118_BuiltData1B34C2964453F64B1F8D39BFE306561A.tmp' to '../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Content/Maps/JC_Whitebox_190118_BuiltData.uasset'
+[2019.01.19-04.42.53:636][ 61]LogFileHelpers: Saving map 'JC_Whitebox_190118' took 1.088
+[2019.01.19-04.42.53:638][ 61]Cmd: MAP LOAD FILE="../../../../../../Users/jacks/OneDrive/Documents/Unreal Projects/Test/JC_ICWB001_AP/Content/Maps/JC_Whitebox_190118.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-04.42.53:643][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.42.53:703][ 61]LightingResults: New page: Lighting Build
+[2019.01.19-04.42.53:704][ 61]LoadErrors: New page: Loading map: JC_Whitebox_190118.umap
+[2019.01.19-04.42.53:725][ 61]MapCheck: New page: Map Check
+[2019.01.19-04.42.53:725][ 61]LightingResults: New page: Lighting Build
+[2019.01.19-04.42.53:772][ 61]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-04.42.53:893][ 61]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-04.42.53:970][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.198ms to complete.
+[2019.01.19-04.42.53:970][ 61]LogFileHelpers: Loading map 'JC_Whitebox_190118' took 0.335
+[2019.01.19-04.43.12:603][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.43.18:412][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-04.45.01:289][365]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.19-04.45.03:496][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
